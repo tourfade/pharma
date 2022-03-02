@@ -4,40 +4,40 @@
    "name": "Orange", 
    "description": "Fruits acide du maorc", 
    "price": 1500, 
-   "created":null, 
-   "updated": null
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
   },
  {
    "uuid": "pomme1",
    "name": "Pomme", 
    "description": "Macintosh", 
    "price": 2500, 
-   "created":null, 
-   "updated": null
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
   },
  {
    "uuid": "banane1",
    "name": "Banane", 
    "description": "De la cote D'ivoire", 
    "price": 750, 
-   "created":null, 
-   "updated": null
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
   },
   {
    "uuid": "mangue1",
    "name": "Mangue", 
    "description": "Succulent du Sine Saloum", 
    "price": 1800, 
-   "created":null, 
-   "updated": null
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
   },
 {
    "uuid": "raisin1",
    "name": "Raisin", 
    "description": "Raisins sans noyaux de la californie sude", 
    "price": 2500, 
-   "created":null, 
-   "updated": null
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
   }
  ]
 }
