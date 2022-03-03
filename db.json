@@ -63,5 +63,30 @@
    "created":"2011-11-02T02:50:12.208Z", 
    "updated": "2011-11-02T02:50:12.208Z"
   }
+   ,
+   {
+   "uuid": "ananas1",
+   "name": "Ananas", 
+   "description": "Très Acide", 
+   "price": 3700, 
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
+  },
+   {
+   "uuid": "cacao2",
+   "name": "Cacao", 
+   "description": "Le gout au bout", 
+   "price": 2900, 
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
+  },
+   {
+   "uuid": "Poire",
+   "name": "Poires", 
+   "description": "Poires au gout de miel", 
+   "price": 2500, 
+   "created":"2011-11-02T02:50:12.208Z", 
+   "updated": "2011-11-02T02:50:12.208Z"
+  }
  ]
 }
